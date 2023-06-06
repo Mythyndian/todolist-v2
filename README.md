@@ -17,13 +17,14 @@ Simple todolist app made using Node.js and MongoDB for saving user task.
 
 ## Dependencies
 
-- [Node.js]("https://nodejs.org/en")
-- [npm]("https://www.npmjs.com/")
-- [ejs]("https://ejs.co/")
-- [body-parser]("https://www.npmjs.com/package/body-parser")
-- [express.js]("https://expressjs.com/")
-- [lodash]("https://lodash.com/")
-- [MongoDB]("https://www.mongodb.com/")
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/)
+- [ejs](https://ejs.co/)
+- [body-parser](https://www.npmjs.com/package/body-parser)
+- [express.js](https://expressjs.com/)
+- [lodash](https://lodash.com/)
+- [MongoDB](https://www.mongodb.com/)
+- [Mongoose](https://mongoosejs.com/)
 
 ## Installation
 
